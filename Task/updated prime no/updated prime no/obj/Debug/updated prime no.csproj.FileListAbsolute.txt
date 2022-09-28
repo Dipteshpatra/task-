@@ -1,0 +1,8 @@
+C:\Projects\updated prime no\updated prime no\bin\Debug\updated prime no.exe.config
+C:\Projects\updated prime no\updated prime no\bin\Debug\updated prime no.exe
+C:\Projects\updated prime no\updated prime no\bin\Debug\updated prime no.pdb
+C:\Projects\updated prime no\updated prime no\obj\Debug\updated prime no.csproj.AssemblyReference.cache
+C:\Projects\updated prime no\updated prime no\obj\Debug\updated prime no.csproj.SuggestedBindingRedirects.cache
+C:\Projects\updated prime no\updated prime no\obj\Debug\updated prime no.csproj.CoreCompileInputs.cache
+C:\Projects\updated prime no\updated prime no\obj\Debug\updated prime no.exe
+C:\Projects\updated prime no\updated prime no\obj\Debug\updated prime no.pdb
